@@ -31,7 +31,6 @@ Config.SpeedLimits = {
 
 * Speeds are set in **MPH**
 * Vehicles not listed in the config are unaffected
-* Script uses `SetVehicleForwardSpeed` to gently reduce speed � customizable for stricter behavior if needed
 
 ## Support
 
